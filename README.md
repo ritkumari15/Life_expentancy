@@ -1,3 +1,3 @@
 # Life_expentancy
 
-## Url Link : https://tenchocolabsritzz.herokuapp.com/ 
+## Url Link : https://ritudeploymenttechno.herokuapp.com/
